@@ -1,4 +1,4 @@
-<h3 align="center">Status</h3>
+# Profile
 <p align="center">
 <div>
     <img src="https://discord.c99.nl/widget/theme-2/934171553267056750.png" align="center" height="80" /><br>
