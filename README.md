@@ -1,5 +1,5 @@
 ### Salut, moi c'est [Sans](https://dsc.gg/sansserver) 👋
-
+<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=sltcv;Je+suis+Sans;Regarde+One+Piece"/>
 [![Contact](https://img.shields.io/discord/736923536475684974?label=Join%20Server&logo=discord&style=flat-square)](https://dsc.gg/sansserver)
 [![Discord](https://img.shields.io/static/v1?label=Sans%230006&color=purple&logo=discord&logoColor=white&message=Contact)](https://dsc.gg/sansserver)
 
