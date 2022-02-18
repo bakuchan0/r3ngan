@@ -4,8 +4,8 @@
 [![Contact](https://img.shields.io/discord/736923536475684974?label=Join%20Server&logo=discord&style=flat-square)](https://dsc.gg/sansserver)
 [![Discord](https://img.shields.io/static/v1?label=Sans%230006&color=purple&logo=discord&logoColor=white&message=Contact)](https://dsc.gg/sansserver)
 
-- 😄 Genre: Garçon
-- 📫 Comment me parler? [Clique sur moi!](https://dsc.gg/sansserver)
+- 😄 Gender: Bot
+- 📫 How to contact me? [Click here!](https://dsc.gg/sansserver)
 
 ---
 
