@@ -1,4 +1,4 @@
-### Salut, moi c'est [Sans](https://dsc.gg/sansserver) 👋
+### Heyy, I am [Sans](https://dsc.gg/sansserver) 👋
 <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=sltcv;Je+suis+Sans;Regarde+One+Piece"/>
 
 [![Contact](https://img.shields.io/discord/736923536475684974?label=Join%20Server&logo=discord&style=flat-square)](https://dsc.gg/sansserver)
@@ -14,7 +14,7 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/934171553267056750.png" />
 </a>
 
-### Contact moi : 
+### Contact me : 
 
 <a href="https://dsc.gg/sansserver">
   <img align="left" alt="Discord" width="23px" src="assets/discord.svg" />
@@ -30,7 +30,7 @@
 
 </br>
 
-### Languages et outils : 
+### Languages and Tools : 
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png" />](https://www.javascript.com/)
 <a href="https://www.npmjs.com/~peterthehan"><img alt="npm" height="32" width="32" src="assets/npm.svg"></a>
@@ -43,7 +43,7 @@
 
 ---
 
-### Autres :
+### Others :
 
   <a href="https://paypal.me/karmalebest"><img alt="PayPal" height="32" width="32" src="assets/paypal.svg"></a>
     <a href="https://open.spotify.com/user/52uz7wqec14uj0u2ldtxjzxcz"><img alt="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
