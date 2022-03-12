@@ -16,7 +16,7 @@
 
 ### Contact me : 
 
-<a href="https://dsc.gg/sansserver">
+<a href="https://discord.gg/6h6m3PhM76">
   <img align="left" alt="Discord" width="23px" src="assets/discord.svg" />
 </a>
 <a href="https://twitter.com/002_sans">
@@ -24,7 +24,7 @@
 </a>
 
 
-[<img align="left" alt="Phantom | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />](https://www.instagram.com/002_sans/)
+[<img align="left" alt="Phantom" | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />](https://www.instagram.com/002_sans/)
 
 
 
